@@ -1,0 +1,8 @@
+1. git init
+2. git status
+3. git add .
+4. git commit -m "message"
+5. git log --oneline
+6. git checkout 'id' filename
+7. git reset HEAD filename
+8. git checkout -- filename
