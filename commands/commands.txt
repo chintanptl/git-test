@@ -3,6 +3,8 @@
 3. git add .
 4. git commit -m "message"
 5. git log --oneline
-6. git checkout 'id' filename
-7. git reset HEAD filename
-8. git checkout -- filename
+6. git checkout 'id' filename  used for previous version.
+7. git reset HEAD filename	     used for unstage
+8. git checkout -- filename	used for reset change
+9. git remote add origin "url"	used for add remote online repo.
+10. git push -u origin master  push local file into online repo.
